@@ -39,6 +39,12 @@ LINK⚫
 " type="audio/ogg"><source src="
 LINK⚫
 " type="audio/mpeg"></audio></div></body></html> 
+<p><a href="
+NOMEWEB🔴
+.zip" download="name">Download via web</a><p>
+<p><a href="
+NOMEMP3🔴
+" download="name">Download via mp3</a><p>
 <!---------------------------------------
 NOME⚫.html
 ---------------------------------------->
